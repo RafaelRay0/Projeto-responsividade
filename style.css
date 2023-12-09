@@ -118,6 +118,7 @@ p {
     box-shadow: 0px 4px 4px 0px #00000040;
     background-color: #ADFF00;
     margin-top: 50px;
+    cursor: pointer;
 }
 
 .button02:hover {
